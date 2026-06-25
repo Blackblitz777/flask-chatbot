@@ -1,4 +1,4 @@
-__pycache__/
+ __pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -13,3 +13,4 @@ venv/
 instance/
 
 *.db
+**/desktop.ini

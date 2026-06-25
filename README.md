@@ -160,7 +160,7 @@ pip install flask groq python-dotenv
 Create a `.env` file in the project root:
 
 ```env
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY="my_api_key_here"
 ```
 
 ### Run the Application

@@ -1,4 +1,4 @@
-##Title : AI Smart Chatbot
+## Title : AI Smart Chatbot
 
 A web-based AI chatbot built using Flask, Groq's LLaMA 3.3 70B model, HTML, CSS, and JavaScript. The application maintains conversational context through chat history and provides real-time responses via a browser-based interface.
 ## Abstract
